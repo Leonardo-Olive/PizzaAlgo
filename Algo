@@ -1,6 +1,8 @@
 1. Decide which restaurant to order from
 2. Decide what type of pizza to order
-3. Call the restaurant
+3. Decide if ordering online or call
 4. Order de pizza
+4b. If customer wants to change toppings within 10 minutes of order go back to step 2
 5. Wait for delivery
+5b. tip cash if ordered by the phone
 6. Eat pizza
